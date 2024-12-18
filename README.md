@@ -1,23 +1,24 @@
-StayFinder - University Hostel Renting Website
+StayFinder
+University Hostel Renting Website
 
-StayFinder is a web application development project using pure HTML, CSS JS, PHP and MySQL. This project is a dynamic web application designed to help students find suitable hostel accommodations while enabling property owners to list and manage their rental properties. The system ensures a user-friendly interface for seamless interactions among students, property owners, and administrators.
+StayFinder is a dynamic web application designed to streamline the process of finding hostel accommodations for students and enabling property owners to list and manage rental properties. Developed using HTML, CSS, JavaScript, PHP, and MySQL, StayFinder ensures a user-friendly interface for seamless interactions among students, property owners, and administrators.
 
 Features
 For Students
-Search Hostels: Explore hostels based on proximity to universities.
-Advanced Filters: Filter search results by price, room capacity, and location.
+Search Hostels: Explore hostel options based on proximity to universities.
+Advanced Filters: Filter results by price, room capacity, and location.
 User Accounts: Register to view contact details, save favorite listings, and more.
 For Property Owners
 List Hostels: Post hostel details, including images, room types (2, 3, 4+ beds), and pricing.
-Subscription Plans: Subscribe to access listing features and publish hostels.
-Manage Listings: Edit or delete hostel listings easily.
+Subscription Plans: Subscribe to unlock listing features and publish hostels.
+Manage Listings: Edit or delete hostel listings with ease.
 For Admins
 Approval System: Approve or reject hostel listings and user registrations.
-Platform Oversight: Manage users, subscriptions, and monitor website activity.
+Platform Oversight: Manage users, subscriptions, and monitor overall website activity.
 Additional Features
 Responsive Design: Optimized for both desktop and mobile usage.
 Secure Authentication: Encrypted login and registration for all users.
-Photo Uploads: Renters can upload hostel images to enhance listings.
+Photo Uploads: Renters can upload images to enhance their listings.
 Technologies Used
 Frontend
 HTML: Provides the structure of web pages.
@@ -29,36 +30,46 @@ MySQL: Manages data storage for users, hostels, and subscriptions.
 Getting Started
 Prerequisites
 A local server setup like XAMPP, WAMP, or MAMP.
-A browser for testing the application.
-Installation
+A web browser to test the application.
+Installation Steps
 Clone or Download the Repository
-git@github.com:SachiniUresha/StayFinder.git
+
+bash
+Copy code
+git clone git@github.com:SachiniUresha/StayFinder.git
 Set Up the Database
 
-Open phpMyAdmin (or any MySQL management tool). Create a new database (e.g., hostel_renting). Import the provided database.sql file into the database. Configure Database Connection
+Open phpMyAdmin (or any MySQL management tool).
+Create a new database (e.g., hostel_renting).
+Import the provided database.sql file into the database.
+Configure Database Connection
 
-Open the dbconnect.php file in the project folder. Update the database credentials (host, username, password, database name). Run the Application
+Open the dbconnect.php file in the project folder.
+Update the database credentials (host, username, password, database name).
+Run the Application
 
-Move the project folder to your web server’s root directory (htdocs for XAMPP). Start the server and access the application in your browser.
-
+Move the project folder to your web server’s root directory (e.g., htdocs for XAMPP).
+Start the server and access the application in your browser.
 Usage
-
-Students
-
-Register and log in to your account. Search for hostels and apply filters. View contact details for listings after registration.
-
-Property Owners
-
-Register as a property owner. Subscribe to list your hostels on the platform. Add, edit, or remove your property listings.
-
-Admins
-
-Log in using admin credentials. Approve or reject hostel listings and monitor user activity.
-
+For Students
+Register and log in to your account.
+Search for hostels and apply filters.
+View contact details for listings after registration.
+For Property Owners
+Register as a property owner.
+Subscribe to list your hostels on the platform.
+Add, edit, or remove your property listings.
+For Admins
+Log in using admin credentials.
+Approve or reject hostel listings.
+Monitor user activity and manage the platform.
 Acknowledgments
+This project was developed through the collaborative efforts of:
 
-This project was developed with the collaborative efforts of:
-
-Mihiran Weerasekara Imansha Dilshan Nadun Dananjaya M. R. Zaiena
-
+Mihiran Weerasekara
+Imansha Dilshan
+Nadun Dananjaya
+M. R. Zaiena
 Special thanks to everyone who contributed to the success of this project!
+
+This structure organizes the information in a logical and reader-friendly way, ensuring clarity and ease of navigation. Let me know if you'd like further refinements!
