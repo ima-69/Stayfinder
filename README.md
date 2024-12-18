@@ -72,4 +72,8 @@ Nadun Dananjaya
 M. R. Zaiena
 Special thanks to everyone who contributed to the success of this project!
 
+<<<<<<< HEAD
 This structure organizes the information in a logical and reader-friendly way, ensuring clarity and ease of navigation. Let me know if you'd like further refinements!
+=======
+This structure organizes the information in a logical and reader-friendly way, ensuring clarity and ease of navigation. Let me know if you'd like further refinements!
+>>>>>>> d043d0eea5b71cf2ff1c6e4461fd0fc1e726cbd4
